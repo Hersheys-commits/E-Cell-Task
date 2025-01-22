@@ -8,7 +8,7 @@ function ProfilePage() {
         <div
           className="min-h-screen bg-cover bg-center text-white flex flex-col justify-center items-center p-6"
           style={{
-            backgroundImage: `url('public/background4.jpg')`, // Replace with your PNG image path
+            backgroundImage: `url('background4.jpg')`, // Replace with your PNG image path
             backgroundColor: 'rgba(0, 0, 0, 1)', // Dark overlay to keep the text readable
           }}
         >
@@ -17,7 +17,7 @@ function ProfilePage() {
           <div className="flex flex-col items-center space-y-4 rounded-lg bg-opacity-35 bg-[#e0ac69] p-4 shadow-lg shadow-[#e0ac69]">
             <div className="w-50 h-60 rounded-full overflow-hidden border-4 border-red-400 shadow-lg">
               <img
-                src="public\Screenshot 2024-06-06 120613.png" // Replace with your picture URL
+                src="Screenshot 2024-06-06 120613.png" // Replace with your picture URL
                 alt="Your Name"
                 className="w-full h-full object-cover"
               />
@@ -38,7 +38,7 @@ function ProfilePage() {
             >
             <span>Follow Me on</span>
             <img
-                src="public/instagram.png" // Replace with your Instagram logo path
+                src="instagram.png" // Replace with your Instagram logo path
                 alt="Instagram"
                 className="w-6 h-6 object-cover"
             />
