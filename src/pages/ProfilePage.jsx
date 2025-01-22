@@ -4,7 +4,7 @@ import Header from '../components/Header';
 function ProfilePage() {
   return (
     <div>
-        <Header style={{ fontFamily: 'YourFontName' }}/>
+        <Header style={{ fontFamily: 'MyFont' }}/>
         <div
           className="min-h-screen bg-cover bg-center text-white flex flex-col justify-center items-center p-6"
           style={{
@@ -22,7 +22,7 @@ function ProfilePage() {
                 className="w-full h-full object-cover"
               />
             </div>
-            <h2 className="text-4xl font-bold" style={{ fontFamily: 'YourFontName' }}>
+            <h2 className="text-4xl font-bold" style={{ fontFamily: 'MyFont' }}>
                 Harsh Sharma
                 </h2>
 

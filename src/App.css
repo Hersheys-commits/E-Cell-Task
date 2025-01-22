@@ -22,7 +22,7 @@ html, body {
 }
 
 @font-face {
-  font-family: 'YourFontName';
+  font-family: 'MyFont';
   src: url('Game Of Squids.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
