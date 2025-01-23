@@ -31,3 +31,7 @@ A Grid built with *React* and a fun Squid Game-inspired profile page and
 
 - React
 - Tailwind CSS
+
+## *Deployed Url*
+
+Link:- https://e-cell-task-five.vercel.app/
